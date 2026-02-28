@@ -17766,4 +17766,3 @@
 ||amazon.in^$client='192.168.80.30'
 ||amazon.in^$client='192.168.80.18'
 ||flipkart.com^$client='192.168.80.30'
-||flipkart.com^$client='192.168.80.18'
